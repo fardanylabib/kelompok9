@@ -1,3 +1,3 @@
 NRP: 0878123123
-Nama: labib fardany
+Nama: Labib Fardany
 Peran dalam tim: Hacker
