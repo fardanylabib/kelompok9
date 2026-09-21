@@ -1,2 +1,3 @@
 ini readme
-nama saya amri
+nama saya nisa
+nama dia amri
